@@ -1,0 +1,9 @@
+name: Aluminum Types
+type: module
+description: "Contains shared resources for all aluminum types child modules."
+core: 8.x
+package: Aluminum
+dependencies:
+  - aluminum
+  - aluminum_vault
+  - aluminum_fields

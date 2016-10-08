@@ -1,0 +1,21 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: BMcClure
+ * Date: 9/29/2016
+ * Time: 12:30 AM
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function aluminum_types_help($route_name, RouteMatchInterface $route_name) {
+  switch ($route_name) {
+    case 'help.page.aluminum_types':
+      // TODO: Help content
+      break;
+  }
+}
+

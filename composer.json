@@ -1,0 +1,8 @@
+{
+  "name": "drupal/aluminum_types",
+  "type": "drupal-module",
+  "description": "Contains shared resources for all aluminum types child modules.",
+  "homepage": "http://drupal.org/project/aluminum_types",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev"
+}
